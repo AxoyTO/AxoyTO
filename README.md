@@ -22,6 +22,12 @@
 
 ### Languages and Tools:
 
+<details>
+<summary>:zap: <b>Most Used Languages</b> </summary>
+<img align="left" width="px" alt="Tevfik Oguzhan Aksoy's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TevfikOguzhanAksoy&layout=compact&theme=dark" /> 
+
+</details>
+
 <img align="left" alt="Visual Studio" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />
 <img align="left" alt="C" width="32px" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
 <img align="left" alt="C++" width="32px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
@@ -35,11 +41,8 @@
 <details>
   <summary>:zap: <b>GitHub Stats</b></summary>
   <img align="left" alt="TevfikOguzhanAksoy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TevfikOguzhanAksoy&theme=dark&show_icons=true" />
-
-<summary>:zap: <b>Most Used Languages</b> </summary>
-<img align="left" alt="Tevfik Oguzhan Aksoy's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TevfikOguzhanAksoy&layout=compact&theme=dark" /> 
-
 </details>
+
 
 [twitter]: https://twitter.com/AxoyTO
 [youtube]: https://www.youtube.com/channel/UCJjRWHa_3WJQ2a-4nvnzw5w
