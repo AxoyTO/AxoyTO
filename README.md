@@ -22,12 +22,6 @@
 
 ### Languages and Tools:
 
-<details>
-<summary>:zap: <b>Most Used Languages</b> </summary>
-<img align="left" width="px" alt="Tevfik Oguzhan Aksoy's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TevfikOguzhanAksoy&layout=compact&theme=dark" /> 
-
-</details>
-
 <img align="left" alt="Visual Studio" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />
 <img align="left" alt="C" width="32px" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
 <img align="left" alt="C++" width="32px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
@@ -37,6 +31,10 @@
 
 <br>
 <br/>
+
+<summary>:zap: <b>Most Used Languages</b> </summary>
+<img align="left" width="px" alt="Tevfik Oguzhan Aksoy's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TevfikOguzhanAksoy&layout=compact&theme=dark" /> 
+
 
 <details>
   <summary>:zap: <b>GitHub Stats</b></summary>
