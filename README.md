@@ -20,6 +20,7 @@
 
 <br>
 
+<details>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />
@@ -32,19 +33,10 @@
 <br>
 <br/>
 
-<details>
-
 <summary>:zap: <b>Most Used Languages</b> </summary>
 <img align="left" width="px" alt="Tevfik Oguzhan Aksoy's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TevfikOguzhanAksoy&layout=compact&theme=dark" /> 
+
 </details>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 <details>
   <summary>:zap: <b>GitHub Stats</b></summary>
