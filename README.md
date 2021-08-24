@@ -10,6 +10,12 @@
 - ⚡ Super interested in the blockchain technology, investing and trading.
 - 📖 I was born in Turkey. I speak Turkish, English, Russian and a bit German.
 
+
+<details>
+  <summary>:zap: <b>GitHub Stats</b></summary>
+  <img align="left" alt="TevfikOguzhanAksoy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TevfikOguzhanAksoy&theme=dark&show_icons=true&hide_border=true_" />
+</details>
+
 ### Connect with me via:
 
 [<img align="left" alt="axoyto | Twitter" width="25px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />][twitter]
@@ -19,8 +25,6 @@
 [<img align="left" alt="Axoy | YouTube" width="25px" src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" />][youtube]
 
 <br>
-
-<details>
 
 ### Languages and Tools:
 
@@ -34,15 +38,13 @@
 <br>
 <br/>
 
+<details>
+
 <summary>:zap: <b>Most Used Languages</b> </summary>
 <img align="left" width="px" alt="Tevfik Oguzhan Aksoy's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TevfikOguzhanAksoy&layout=compact&theme=dark" /> 
 
 </details>
 
-<details>
-  <summary>:zap: <b>GitHub Stats</b></summary>
-  <img align="left" alt="TevfikOguzhanAksoy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TevfikOguzhanAksoy&theme=dark&show_icons=true&hide_border=true_" />
-</details>
 
 
 [twitter]: https://twitter.com/AxoyTO
