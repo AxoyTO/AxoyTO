@@ -35,12 +35,7 @@
 <details>
   <summary>:zap: <b>GitHub Stats</b></summary>
   <img align="left" alt="TevfikOguzhanAksoy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TevfikOguzhanAksoy&theme=dark&show_icons=true" />
-</details>
 
-<br>
-</br>
-
-<details>
 <summary>:zap: <b>Most Used Languages</b> </summary>
 <img align="left" alt="Tevfik Oguzhan Aksoy's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TevfikOguzhanAksoy&layout=compact&theme=dark" /> 
 
