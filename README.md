@@ -6,7 +6,7 @@
 
 - 📚 I'm a student at Lomonosov Moscow State University, in the faculty of Mathematics and Cybernetics in Moscow, Russia.
 - 👨‍💻 I'm in the department of Supercomputers and Quantum Informatics.
-- 🌱 Currently making progress in Computer Graphics and CUDA.
+<!-- - 🌱 Currently making progress in Computer Graphics and CUDA. -->
 - ⚡ Super interested in the blockchain technology, investing and trading.
 - 📖 I was born in Turkey. I speak Turkish, English, Russian and a bit German.
 
