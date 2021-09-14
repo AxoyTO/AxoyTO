@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/axoyto?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTevfikOguzhanAksoy&screen_name=AxoyTO)
 
-#### I'm a learner, student, developer and investor!
+#### I'm a learner, student, developer(Jr.😄) and investor!
 
 - 📚 I'm a student at Lomonosov Moscow State University, in the faculty of Mathematics and Cybernetics in Moscow, Russia.
 - 👨‍💻 I'm in the department of Supercomputers and Quantum Informatics.
