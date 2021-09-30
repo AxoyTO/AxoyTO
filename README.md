@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Oguz, but you can call me by my surname, as most of my contacts do. 😄
+### Hi there 👋, I'm Oguz, but you can call me Axoy, as most of my contacts do. 😄
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/axoyto?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTevfikOguzhanAksoy&screen_name=AxoyTO)
+<!--[![Twitter Follow](https://img.shields.io/twitter/follow/axoyto?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTevfikOguzhanAksoy&screen_name=AxoyTO) -->
 
 #### I'm a learner, student, developer(Jr.😄) and investor!
 
