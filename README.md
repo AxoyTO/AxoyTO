@@ -8,11 +8,12 @@
 - ⚡ Super interested in the blockchain technology, investing and trading.
 - 📖 I was born in Turkey. I speak Turkish, English, Russian and a bit German.
 
-
+![](https://komarev.com/ghpvc/?username=AxoyTO&style=plastic&color=blue)
 <details>
   <summary>:zap: <b>GitHub Stats</b></summary>
   <img align="left" alt="TevfikOguzhanAksoy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AxoyTO&theme=dark&show_icons=true&hide_border=true_" />
 </details>
+
 
 ### Connect with me via:
 
