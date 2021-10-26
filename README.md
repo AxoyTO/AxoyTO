@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Oguz, but you can call me Axoy, as most of my contacts do. 😄
-![](https://komarev.com/ghpvc/?username=AxoyTO&style=plastic&color=blue)
+
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/axoyto?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTevfikOguzhanAksoy&screen_name=AxoyTO) -->
 #### I'm a learner, student, developer(Jr.😄) and investor!
 <!-- - 🌱 Currently making progress in Computer Graphics and CUDA. -->
@@ -52,3 +52,5 @@
 [instagram]: https://instagram.com/toaksoy
 [vk]: https://vk.com/toaxoy
 [telegram]: https://t.me/toAxoy
+
+![](https://komarev.com/ghpvc/?username=AxoyTO&style=plastic&color=blue)
