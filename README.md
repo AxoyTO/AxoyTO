@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Oguz, but you can call me Axoy, as most of my contacts do. 😄
-
+![](https://komarev.com/ghpvc/?username=AxoyTO&style=plastic&color=blue)
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/axoyto?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTevfikOguzhanAksoy&screen_name=AxoyTO) -->
 #### I'm a learner, student, developer(Jr.😄) and investor!
 <!-- - 🌱 Currently making progress in Computer Graphics and CUDA. -->
@@ -8,7 +8,7 @@
 - ⚡ Super interested in the blockchain technology, investing and trading.
 - 📖 I was born in Turkey. I speak Turkish, English, Russian and a bit German.
 
-![](https://komarev.com/ghpvc/?username=AxoyTO&style=plastic&color=blue)
+
 <details>
   <summary>:zap: <b>GitHub Stats</b></summary>
   <img align="left" alt="TevfikOguzhanAksoy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AxoyTO&theme=dark&show_icons=true&hide_border=true_" />
