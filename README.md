@@ -38,6 +38,8 @@
 <br>
 <br>
 
+![](https://komarev.com/ghpvc/?username=AxoyTO&style=plastic&color=blue)
+
 <details>
 
 <summary>:zap: <b>Most Used Languages</b> </summary>
@@ -53,4 +55,4 @@
 [vk]: https://vk.com/toaxoy
 [telegram]: https://t.me/toAxoy
 
-![](https://komarev.com/ghpvc/?username=AxoyTO&style=plastic&color=blue)
+
