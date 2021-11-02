@@ -1,4 +1,4 @@
-### Hi there <img width="25px" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Oguz, but you can call me Axoy, as most of my contacts do. 😄
+### Hi there <img width="25px" src="https://raw.githubusercontent.com/AxoyTO/AxoyTO/master/wave.gif" width="30px">, I'm Oguz, but you can call me Axoy, as most of my contacts do. 😄
 [![Linkedin Badge](https://img.shields.io/badge/-Tevfik%20Oguzhan%20Aksoy-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/axoyto/ "Connect on LinkedIn")
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/axoyto?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTevfikOguzhanAksoy&screen_name=AxoyTO) -->
 #### I'm a learner, student, developer(Jr.😄) and investor!
