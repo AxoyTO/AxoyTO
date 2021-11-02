@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Oguz, but you can call me Axoy, as most of my contacts do. 😄
-
+### Hi there <img width="25px" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Oguz, but you can call me Axoy, as most of my contacts do. 😄
+[![Linkedin Badge](https://img.shields.io/badge/-Tevfik%20Oguzhan%20Aksoy-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/axoyto/ "Connect on LinkedIn")
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/axoyto?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTevfikOguzhanAksoy&screen_name=AxoyTO) -->
 #### I'm a learner, student, developer(Jr.😄) and investor!
 <!-- - 🌱 Currently making progress in Computer Graphics and CUDA. -->
@@ -27,12 +27,13 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />
 <img align="left" alt="C" width="32px" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
 <img align="left" alt="C++" width="32px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/cute-clipart/64/000000/github.png" />
-<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
+<img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/fluency/48/000000/github.png" />
+<img align="left" alt="Visual Studio" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />
+<img align="left" alt="Terminal" width="32px" src="https://img.icons8.com/fluency/48/000000/console.png" />
 
 <br>
 <br>
@@ -48,7 +49,7 @@
 </details>
 
 
-
+[linkedin]: https://www.linkedin.com/in/axoyto/
 [twitter]: https://twitter.com/AxoyTO
 [youtube]: https://www.youtube.com/channel/UCJjRWHa_3WJQ2a-4nvnzw5w
 [instagram]: https://instagram.com/toaksoy
