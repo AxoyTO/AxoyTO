@@ -40,7 +40,7 @@
 <br>
 <br>
 
-![](https://komarev.com/ghpvc/?username=AxoyTO&style=plastic&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=AxoyTO&style=plastic&color=blue)
 
 <details>
 
