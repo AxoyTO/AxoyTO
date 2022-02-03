@@ -3,7 +3,7 @@
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/axoyto?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTevfikOguzhanAksoy&screen_name=AxoyTO) -->
 <!-- #### I'm a learner, student, developer(Jr.😄) and investor! -->
 <!-- - 🌱 Currently making progress in Computer Graphics and CUDA. -->
-- 📚 I'm a student at Lomonosov Moscow State University, in the faculty of Computational Mathematics and Cybernetics in Moscow, Russia.
+- 📚 I'm a student at <a href="https://en.wikipedia.org/wiki/Moscow_State_University" target="_blank">Moscow State University</a>, in the faculty of <a href="https://en.wikipedia.org/wiki/MSU_Faculty_of_Computational_Mathematics_and_Cybernetics" target="_blank">Computational Mathematics and Cybernetics </a> in Moscow, Russia.
 - 👨‍💻 I'm in the department of Supercomputers and Quantum Informatics.
 - ⚡ Super interested in the blockchain technology, investing and trading.
 - 📖 I was born in Turkey. I speak Turkish, English, Russian and a bit German.
@@ -30,6 +30,7 @@
 <img align="left" alt="C" width="32px" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
 <img align="left" alt="C++" width="32px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+<img align="left" alt="JavaScript" width="32px" src="https://img.icons8.com/color/344/javascript--v1.png"/>
 <img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/fluency/48/000000/github.png" />
 <img align="left" alt="Visual Studio" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />
