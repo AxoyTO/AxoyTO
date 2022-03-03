@@ -54,6 +54,6 @@
 [youtube]: https://www.youtube.com/channel/UCJjRWHa_3WJQ2a-4nvnzw5w
 [instagram]: https://instagram.com/toaksoy
 [vk]: https://vk.com/toaxoy
-[telegram]: https://t.me/toAxoy
+[telegram]: https://t.me/axoyto
 
 
