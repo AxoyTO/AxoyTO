@@ -29,7 +29,7 @@
 <img align="left" alt="C" width="32px" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
 <img align="left" alt="C++" width="32px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python--v2.png"/>
-<img align="left" alt="JavaScript" width="32px" src="https://img.icons8.com/color/344/javascript--v1.png"/>
+<!-- <img align="left" alt="JavaScript" width="32px" src="https://img.icons8.com/color/344/javascript--v1.png"/> -->
 <img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/fluency/48/000000/github.png" />
 <img align="left" alt="Visual Studio" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />
