@@ -32,7 +32,7 @@
 <!-- <img align="left" alt="JavaScript" width="32px" src="https://img.icons8.com/color/344/javascript--v1.png"/> -->
 <img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/fluency/48/000000/github.png" />
-<img align="left" alt="Visual Studio" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />
+<!-- <img align="left" alt="Visual Studio" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" /> -->
 <img align="left" alt="Terminal" width="32px" src="https://img.icons8.com/fluency/48/000000/console.png" />
 
 <br>
