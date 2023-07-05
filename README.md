@@ -1,5 +1,5 @@
-### Hi there 🙋‍♂️🙌, I'm Tevfik Oguzhan Aksoy.
-[![Linkedin Badge](https://img.shields.io/badge/-Tevfik%20Oguzhan%20Aksoy-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/axoyto/ "Connect on LinkedIn")
+### Hi there! 🙌 I'm [![Linkedin Badge](https://img.shields.io/badge/-Tevfik%20Oguzhan%20Aksoy-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/axoyto/ "Connect on LinkedIn")
+
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/axoyto?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTevfikOguzhanAksoy&screen_name=AxoyTO) -->
 <!-- #### I'm a learner, student, developer and investor! -->
 <!-- - 🌱 Currently making progress in Computer Graphics and CUDA. -->
