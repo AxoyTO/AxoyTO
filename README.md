@@ -3,10 +3,10 @@
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/axoyto?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTevfikOguzhanAksoy&screen_name=AxoyTO) -->
 <!-- #### I'm a learner, student, developer and investor! -->
 <!-- - 🌱 Currently making progress in Computer Graphics and CUDA. -->
-- 📚 I'm a student at <a href="https://en.wikipedia.org/wiki/Moscow_State_University" target="_blank">Moscow State University</a>, in the faculty of <a href="https://en.wikipedia.org/wiki/MSU_Faculty_of_Computational_Mathematics_and_Cybernetics" target="_blank">Computational Mathematics and Cybernetics </a> in Moscow, Russia.
-- 👨‍💻 I'm in the department of Supercomputers and Quantum Informatics.
-- ⚡ Super interested in the blockchain technology, investing and trading.
-- 📖 I was born in Turkey. I speak Turkish, English, Russian and a bit German.
+- 📚 I'm a Computer Science and Applied Mathematics graduate from the faculty of <a href="https://en.wikipedia.org/wiki/MSU_Faculty_of_Computational_Mathematics_and_Cybernetics" target="_blank">Computational Mathematics and Cybernetics </a> at <a href="https://en.wikipedia.org/wiki/Moscow_State_University" target="_blank">Lomonosov Moscow State University</a> in Moscow, Russia.
+- 👨‍💻 I studied High-Performance Computing at the department of Supercomputers and Quantum Informatics.
+- 🌱 Currently making progress in ML and AI.
+- 📖 I speak Turkish, English, Russian and a bit German.
 
 <details>
   <summary>:zap: <b>GitHub Stats</b></summary>
