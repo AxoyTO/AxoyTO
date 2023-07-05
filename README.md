@@ -10,9 +10,9 @@
 
 <details>
   <summary>:zap: <b>GitHub Stats</b></summary>
-  <img align="left" alt="TevfikOguzhanAksoy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AxoyTO&theme=dark&show_icons=true&hide_border=true_" />
+  <img align="left" alt="TevfikOguzhanAksoy's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AxoyTO&theme=dark&show_icons=true&hide_border=true_" />
+  
 </details>
-
 
 ### Connect with me via:
 
@@ -44,7 +44,7 @@
 <details>
 
 <summary>:zap: <b>Most Used Languages</b> </summary>
-<img align="left" alt="LanguageStats" width="px" alt="Tevfik Oguzhan Aksoy's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxoyTO&layout=compact&theme=dark" /> 
+<img align="left" alt="LanguageStats" width="px" alt="Tevfik Oguzhan Aksoy's Most Used Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AxoyTO&layout=compact&theme=dark" /> 
 
 </details>
 
