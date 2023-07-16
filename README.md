@@ -6,7 +6,7 @@
 - 📚 I'm a Computer Science and Applied Mathematics graduate from the faculty of <a href="https://en.wikipedia.org/wiki/MSU_Faculty_of_Computational_Mathematics_and_Cybernetics" target="_blank">Computational Mathematics and Cybernetics </a> at <a href="https://en.wikipedia.org/wiki/Moscow_State_University" target="_blank">Lomonosov Moscow State University</a> in Moscow, Russia.
 - 👨‍💻 I studied High-Performance Computing at the department of Supercomputers and Quantum Informatics.
 - 🌱 Currently making progress in ML and AI.
-- 📖 I speak Turkish, English, Russian and a bit German.
+- 📖 I speak English, Turkish, Russian and a bit German.
 
 <details>
   <summary>:zap: <b>GitHub Stats</b></summary>
