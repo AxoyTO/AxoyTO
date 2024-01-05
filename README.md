@@ -22,22 +22,21 @@
 [<img align="left" alt="toaxoy | VK" width="25px" src="https://camo.githubusercontent.com/26be819fcce90f75668efeb7a432b969dcc35a1e4478149c3fcd48fda5b457c3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f766b2e737667" />][vk]
 [<img align="left" alt="toaxoy | Telegram" width="25px" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" />][telegram]
 <!-- [<img align="left" alt="Axoy | YouTube" width="25px" src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" />][youtube] -->
-
 <br>
 
 ### Languages and Tools:
 
-<img align="left" alt="C" width="32px" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
-<img align="left" alt="C++" width="32px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+[![Connect](https://skillicons.dev/icons?i=c,cpp,python,git,github,bash&perline=6)](https://skillicons.dev)
+
+<!-- <img align="left" alt="C" width="32px" src="https://img.icons8.com/color/50/000000/c-programming.png"/> 
+<img align="left" alt="C++" width="32px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
 <img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/000000/python--v2.png"/>
-<!-- <img align="left" alt="JavaScript" width="32px" src="https://img.icons8.com/color/344/javascript--v1.png"/> -->
+<img align="left" alt="JavaScript" width="32px" src="https://img.icons8.com/color/344/javascript--v1.png"/>
 <img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/fluency/48/000000/github.png" />
-<!-- <img align="left" alt="Visual Studio" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" /> -->
-<img align="left" alt="Terminal" width="32px" src="https://img.icons8.com/fluency/48/000000/console.png" />
+<img align="left" alt="Visual Studio" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" /> 
+<img align="left" alt="Terminal" width="32px" src="https://img.icons8.com/fluency/48/000000/console.png" /> -->
 
-<br>
-<br>
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AxoyTO&style=plastic&color=blue)
