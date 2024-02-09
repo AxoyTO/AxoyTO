@@ -38,9 +38,9 @@
 <img align="left" alt="Visual Studio" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" /> 
 <img align="left" alt="Terminal" width="32px" src="https://img.icons8.com/fluency/48/000000/console.png" /> -->
 
-<br>
+<!-- <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AxoyTO&style=plastic&color=blue)
+ ![Profile Views](https://komarev.com/ghpvc/?username=AxoyTO&style=plastic&color=blue) -->
 
 <details>
 
