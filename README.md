@@ -55,7 +55,7 @@
 [youtube]: https://www.youtube.com/channel/UCJjRWHa_3WJQ2a-4nvnzw5w
 [instagram]: https://instagram.com/toaksoy
 [vk]: https://vk.com/toaxoy
-[telegram]: https://t.me/axoyto
+[telegram]: https://t.me/toaksoy
 
 [HSE]: https://en.wikipedia.org/wiki/Higher_School_of_Economics
 [Skoltech]: https://en.wikipedia.org/wiki/Skolkovo_Institute_of_Science_and_Technology
