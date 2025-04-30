@@ -5,7 +5,7 @@
 <!-- - 🌱 Currently making progress in Computer Graphics and CUDA. -->
 - 📚 I'm a **Computer Science** and **Applied Mathematics** graduate from the faculty of <a href="https://en.wikipedia.org/wiki/MSU_Faculty_of_Computational_Mathematics_and_Cybernetics" target="_blank">Computational Mathematics and Cybernetics </a> at <a href="https://en.wikipedia.org/wiki/Moscow_State_University" target="_blank">Lomonosov Moscow State University</a> in Moscow, Russia.
 - 👨‍💻 I studied **High-Performance Computing** at the Department of Supercomputers and Quantum Informatics within CMC MSU.
-- 📖 Currently, I'm doing a <!-- double -->master's degree in **Data Science** at [Higher School of Economics][HSE]<!--, **Advanced Computational Science** at [Skolkovo Institute of Science and Technology][Skoltech]--> and working as a Graduate Field Software Engineer at Canonical. 
+- 📖 Currently, I'm doing a <!-- double -->master's degree in **Data Science** at [Higher School of Economics][HSE]<!--, **Advanced Computational Science** at [Skolkovo Institute of Science and Technology][Skoltech]--> and working as a Field Cloud Engineer at Canonical. 
 - 💬 I speak English, Turkish, Russian, and a bit German.
 <!-- - 🌱 Currently making progress in ML and AI. -->
 
