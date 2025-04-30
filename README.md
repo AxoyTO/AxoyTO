@@ -50,7 +50,7 @@
 </details>
 
 
-[linkedin]: https://www.linkedin.com/in/axoyto/
+[linkedin]: https://www.linkedin.com/in/toaksoy/
 [twitter]: https://twitter.com/AxoyTO
 [youtube]: https://www.youtube.com/channel/UCJjRWHa_3WJQ2a-4nvnzw5w
 [instagram]: https://instagram.com/toaksoy
